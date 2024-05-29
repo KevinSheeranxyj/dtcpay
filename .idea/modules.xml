@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dtc.iml" filepath="$PROJECT_DIR$/.idea/dtc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-addon-data-processor/dtc-addon-data-processor.iml" filepath="$PROJECT_DIR$/dtc-addon-data-processor/dtc-addon-data-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-addon-file/dtc-addon-file.iml" filepath="$PROJECT_DIR$/dtc-addon-file/dtc-addon-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-addon-i18n/dtc-addon-i18n.iml" filepath="$PROJECT_DIR$/dtc-addon-i18n/dtc-addon-i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-addon-integration/dtc-addon-integration.iml" filepath="$PROJECT_DIR$/dtc-addon-integration/dtc-addon-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-addon-quote/dtc-addon-quote.iml" filepath="$PROJECT_DIR$/dtc-addon-quote/dtc-addon-quote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-callback-api/dtc-callback-api.iml" filepath="$PROJECT_DIR$/dtc-callback-api/dtc-callback-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-parent/dtc-common/dtc-common.iml" filepath="$PROJECT_DIR$/dtc-parent/dtc-common/dtc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-parent/dtc-common-data/dtc-common-data.iml" filepath="$PROJECT_DIR$/dtc-parent/dtc-common-data/dtc-common-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-parent/dtc-common-internal/dtc-common-internal.iml" filepath="$PROJECT_DIR$/dtc-parent/dtc-common-internal/dtc-common-internal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-crypto-cli/dtc-crypto-cli.iml" filepath="$PROJECT_DIR$/dtc-crypto-cli/dtc-crypto-cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-crypto-engine/dtc-crypto-engine.iml" filepath="$PROJECT_DIR$/dtc-crypto-engine/dtc-crypto-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-data-core/dtc-data-core.iml" filepath="$PROJECT_DIR$/dtc-data-core/dtc-data-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-data-finance/dtc-data-finance.iml" filepath="$PROJECT_DIR$/dtc-data-finance/dtc-data-finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-data-notification/dtc-data-notification.iml" filepath="$PROJECT_DIR$/dtc-data-notification/dtc-data-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-data-portal/dtc-data-portal.iml" filepath="$PROJECT_DIR$/dtc-data-portal/dtc-data-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-data-risk/dtc-data-risk.iml" filepath="$PROJECT_DIR$/dtc-data-risk/dtc-data-risk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-data-scheduler/dtc-data-scheduler.iml" filepath="$PROJECT_DIR$/dtc-data-scheduler/dtc-data-scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-data-wallet/dtc-data-wallet.iml" filepath="$PROJECT_DIR$/dtc-data-wallet/dtc-data-wallet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-integration-engine/dtc-integration-engine.iml" filepath="$PROJECT_DIR$/dtc-integration-engine/dtc-integration-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-notification-engine/dtc-notification-engine.iml" filepath="$PROJECT_DIR$/dtc-notification-engine/dtc-notification-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-parent/dtc-parent.iml" filepath="$PROJECT_DIR$/dtc-parent/dtc-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-payment-api/dtc-payment-api.iml" filepath="$PROJECT_DIR$/dtc-payment-api/dtc-payment-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-payment-engine/dtc-payment-engine.iml" filepath="$PROJECT_DIR$/dtc-payment-engine/dtc-payment-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-report-engine/dtc-report-engine.iml" filepath="$PROJECT_DIR$/dtc-report-engine/dtc-report-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-risk-engine/dtc-risk-engine.iml" filepath="$PROJECT_DIR$/dtc-risk-engine/dtc-risk-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-scheduler-engine/dtc-scheduler-engine.iml" filepath="$PROJECT_DIR$/dtc-scheduler-engine/dtc-scheduler-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-settlement-engine/dtc-settlement-engine.iml" filepath="$PROJECT_DIR$/dtc-settlement-engine/dtc-settlement-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-top-engine/dtc-top-engine.iml" filepath="$PROJECT_DIR$/dtc-top-engine/dtc-top-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-va-engine/dtc-va-engine.iml" filepath="$PROJECT_DIR$/dtc-va-engine/dtc-va-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-wallet-api/dtc-wallet-api.iml" filepath="$PROJECT_DIR$/dtc-wallet-api/dtc-wallet-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-wallet-engine/dtc-wallet-engine.iml" filepath="$PROJECT_DIR$/dtc-wallet-engine/dtc-wallet-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dtc-sdk-java-openapi.tar/wallet-openapi-sdk-java (1).iml" filepath="$PROJECT_DIR$/dtc-sdk-java-openapi.tar/wallet-openapi-sdk-java (1).iml" />
+    </modules>
+  </component>
+</project>

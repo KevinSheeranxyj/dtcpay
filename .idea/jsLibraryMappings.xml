@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="dtc/web/dtc-payment-page-frontend/node_modules" />
+    <excludedPredefinedLibrary name="dtc/web/dtc-portal-frontend/node_modules" />
+    <excludedPredefinedLibrary name="dtc/web/dtc-top-frontend/node_modules" />
+    <excludedPredefinedLibrary name="dtc/web/dtc-wallet-frontend/node_modules" />
+  </component>
+</project>

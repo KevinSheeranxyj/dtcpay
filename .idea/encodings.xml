@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.7.3/src/main/resources" charset="UTF-8" />
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.7.4/src/main/resources" charset="UTF-8" />
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/3.1.3/src/main/resources" charset="UTF-8" />
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/3.2.1/src/main/resources" charset="UTF-8" />
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/3.2.4/src/main/resources" charset="UTF-8" />
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/3.2.5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-addon-data-processor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-addon-file/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-addon-i18n/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-addon-integration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-addon-integration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-addon-quote/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-callback-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-callback-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-crypto-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-crypto-engine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-data-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-data-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-data-finance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-data-notification/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-data-portal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-data-risk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-data-scheduler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-data-wallet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-integration-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-mock-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-notification-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-parent/dtc-common-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-parent/dtc-common-internal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-parent/dtc-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-payment-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-payment-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-payment-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-payment-engine/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-report-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-risk-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-scheduler-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-sdk-java-openapi.tar/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-sdk-java-openapi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-settlement-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-top-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-top-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-va-engine/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-wallet-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dtc-wallet-engine/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: top.dtc:dtc-common-data:0.94.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/top/dtc/dtc-common-data/0.94.0-SNAPSHOT/dtc-common-data-0.94.0-20240411.022003-56.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/top/dtc/dtc-common-data/0.94.0-SNAPSHOT/dtc-common-data-0.94.0-20240411.022003-56-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/top/dtc/dtc-common-data/0.94.0-SNAPSHOT/dtc-common-data-0.94.0-20240411.022003-56-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

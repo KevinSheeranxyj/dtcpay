@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/data-init" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-addon-data-processor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-addon-file" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-addon-i18n" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-addon-integration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-addon-quote" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-callback-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-crypto-cli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-crypto-engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-data-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-data-finance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-data-notification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-data-portal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-data-risk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-data-scheduler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-data-wallet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-integration-engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-mock-engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-notification-engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-parent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-payment-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-payment-engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-report-engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-risk-engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-scheduler-engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-sdk-java-openapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-sdk-java-openapi.tar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-sdk-java-payment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-settlement-engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-top-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-top-engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-va-engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-wallet-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dtc-wallet-engine" vcs="Git" />
+  </component>
+</project>

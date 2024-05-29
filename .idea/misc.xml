@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dtc-addon-data-processor/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-addon-integration/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-callback-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-crypto-engine/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-data-core/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-payment-engine/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-payment-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-data-portal/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-data-notification/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-crypto-cli/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-addon-quote/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-addon-i18n/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-addon-file/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-notification-engine/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-integration-engine/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-data-wallet/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-data-finance/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-risk-engine/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-scheduler-engine/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-settlement-engine/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-top-engine/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-va-engine/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-wallet-api/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-wallet-engine/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-report-engine/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-data-risk/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-data-scheduler/pom.xml" />
+        <option value="$PROJECT_DIR$/dtc-sdk-java-openapi.tar/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

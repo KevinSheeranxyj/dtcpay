@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: top.dtc:dtc-data-wallet:0.70.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/top/dtc/dtc-data-wallet/0.70.0-SNAPSHOT/dtc-data-wallet-0.70.0-20240528.151802-7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/top/dtc/dtc-data-wallet/0.70.0-SNAPSHOT/dtc-data-wallet-0.70.0-20240528.151802-7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/top/dtc/dtc-data-wallet/0.70.0-SNAPSHOT/dtc-data-wallet-0.70.0-20240528.151802-7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

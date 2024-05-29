@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dtc-data-notification" />
+        <module name="dtc-addon-quote" />
+        <module name="dtc-addon-integration" />
+        <module name="dtc-data-risk" />
+        <module name="dtc-common-data" />
+        <module name="dtc-common-internal" />
+        <module name="dtc-payment-engine" />
+        <module name="dtc-wallet-engine" />
+        <module name="dtc-callback-api" />
+        <module name="dtc-crypto-engine" />
+        <module name="dtc-scheduler-engine" />
+        <module name="dtc-notification-engine" />
+        <module name="dtc-common" />
+        <module name="dtc-top-engine" />
+        <module name="wallet-openapi-sdk-java (1)" />
+        <module name="dtc-addon-data-processor" />
+        <module name="dtc-data-finance" />
+        <module name="dtc-va-engine" />
+        <module name="dtc-data-scheduler" />
+        <module name="dtc-payment-api" />
+        <module name="dtc-integration-engine" />
+        <module name="dtc-addon-i18n" />
+        <module name="dtc-data-wallet" />
+        <module name="dtc-wallet-api" />
+        <module name="dtc-report-engine" />
+        <module name="dtc-data-portal" />
+        <module name="dtc-settlement-engine" />
+        <module name="dtc-risk-engine" />
+        <module name="dtc-addon-file" />
+        <module name="dtc-data-core" />
+      </profile>
+      <profile name="Annotation profile for dtc-crypto-cli" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <option name="project" value="org.example/dtc-crypto-cli" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/info/picocli/picocli-codegen/4.6.1/picocli-codegen-4.6.1.jar" />
+          <entry name="$MAVEN_REPOSITORY$/info/picocli/picocli/4.6.1/picocli-4.6.1.jar" />
+        </processorPath>
+        <module name="dtc-crypto-cli" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dtc-addon-data-processor" target="17" />
+      <module name="dtc-addon-file" target="17" />
+      <module name="dtc-addon-i18n" target="17" />
+      <module name="dtc-addon-integration" target="17" />
+      <module name="dtc-addon-quote" target="17" />
+      <module name="dtc-callback-api" target="17" />
+      <module name="dtc-common" target="17" />
+      <module name="dtc-common-data" target="17" />
+      <module name="dtc-common-internal" target="17" />
+      <module name="dtc-crypto-cli" target="11" />
+      <module name="dtc-crypto-engine" target="17" />
+      <module name="dtc-data-core" target="17" />
+      <module name="dtc-data-finance" target="17" />
+      <module name="dtc-data-notification" target="17" />
+      <module name="dtc-data-portal" target="17" />
+      <module name="dtc-data-risk" target="17" />
+      <module name="dtc-data-scheduler" target="17" />
+      <module name="dtc-data-wallet" target="17" />
+      <module name="dtc-integration-engine" target="17" />
+      <module name="dtc-mock-engine" target="17" />
+      <module name="dtc-notification-engine" target="17" />
+      <module name="dtc-parent" target="1.5" />
+      <module name="dtc-payment-api" target="17" />
+      <module name="dtc-payment-engine" target="17" />
+      <module name="dtc-report-engine" target="17" />
+      <module name="dtc-risk-engine" target="17" />
+      <module name="dtc-scheduler-engine" target="17" />
+      <module name="dtc-settlement-engine" target="17" />
+      <module name="dtc-top-api" target="1.5" />
+      <module name="dtc-top-engine" target="17" />
+      <module name="dtc-va-engine" target="17" />
+      <module name="dtc-wallet-api" target="17" />
+      <module name="dtc-wallet-engine" target="17" />
+      <module name="wallet-openapi-sdk-java" target="17" />
+      <module name="wallet-openapi-sdk-java (1)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dtc-addon-data-processor" options="-parameters" />
+      <module name="dtc-addon-file" options="-parameters" />
+      <module name="dtc-addon-i18n" options="-parameters" />
+      <module name="dtc-addon-integration" options="-parameters" />
+      <module name="dtc-addon-quote" options="-parameters" />
+      <module name="dtc-callback-api" options="-parameters" />
+      <module name="dtc-common" options="-parameters" />
+      <module name="dtc-common-data" options="-parameters" />
+      <module name="dtc-common-internal" options="-parameters" />
+      <module name="dtc-crypto-cli" options="-Aproject=org.example/dtc-crypto-cli" />
+      <module name="dtc-crypto-engine" options="-parameters" />
+      <module name="dtc-data-core" options="-parameters" />
+      <module name="dtc-data-finance" options="-parameters" />
+      <module name="dtc-data-notification" options="-parameters" />
+      <module name="dtc-data-portal" options="-parameters" />
+      <module name="dtc-data-risk" options="-parameters" />
+      <module name="dtc-data-scheduler" options="-parameters" />
+      <module name="dtc-data-wallet" options="-parameters" />
+      <module name="dtc-integration-engine" options="-parameters" />
+      <module name="dtc-mock-engine" options="-parameters" />
+      <module name="dtc-notification-engine" options="-parameters" />
+      <module name="dtc-payment-api" options="-parameters" />
+      <module name="dtc-payment-engine" options="-parameters" />
+      <module name="dtc-report-engine" options="-parameters" />
+      <module name="dtc-risk-engine" options="-parameters" />
+      <module name="dtc-scheduler-engine" options="-parameters" />
+      <module name="dtc-settlement-engine" options="-parameters" />
+      <module name="dtc-top-api" options="" />
+      <module name="dtc-top-engine" options="-parameters" />
+      <module name="dtc-va-engine" options="-parameters" />
+      <module name="dtc-wallet-api" options="-parameters" />
+      <module name="dtc-wallet-engine" options="-parameters" />
+      <module name="wallet-openapi-sdk-java" options="-parameters -XDignore.symbol.file" />
+      <module name="wallet-openapi-sdk-java (1)" options="-parameters -XDignore.symbol.file" />
+    </option>
+  </component>
+</project>
